@@ -30,35 +30,3 @@
   </footer>
 
   <script src="script.js"></script>
-</body>
-</html>
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  background: #f4f4f4;
-}
-
-header {
-  background: #004080;
-  color: white;
-  padding: 15px;
-  text-align: center;
-}
-
-nav a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
-}
-
-section {
-  padding: 20px;
-}
-
-.job-card {
-  background: white;
-  padding: 15px;
-  margin: 10px 0;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
